@@ -1,5 +1,5 @@
 # Snake_Game
-This is a java swing desktop game. It is a imitaion of "snake".
+This is a java swing desktop game. It is a imitation of "snake".
 
 To start playing you need to press 'play" and then press any arrow on your keyboard. 
 Control is quite easy. Pressing arrows changes the direction of were snake is moving.
